@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: staging
+    database: practical-bot-376322
+    schema: zoomcamp_data_v3
+
+    tables:
+      - name: rides
